@@ -16,7 +16,7 @@ a:hover {
 
 .navigation_menu li {
     display: inline-block;
-    font-size: 16px;
+    font-size: 15px;
     position: relative;
 }
 
@@ -190,6 +190,7 @@ a.inst:hover {
 
 .sub_menu a {
     color: #2a3644;
+    text-align: left;
 }
 
 .navigation_menu li:hover .sub_menu,
