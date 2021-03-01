@@ -80,6 +80,10 @@ a:hover {
     margin-bottom: 40px;
 } 
 
+.food_menu li:last-child .sub_menu {
+   right: 0; 
+}
+
 .food_menu,
 .main_menu {
     display: flex;
